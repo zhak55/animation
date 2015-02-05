@@ -1,4 +1,4 @@
-# animation
+# Animation
 Very simple JS-animation
 ```
 
