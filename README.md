@@ -1,6 +1,9 @@
 # animation
 Very simple JS-animation
 ```
+
+// e.g.: http://jsfiddle.net/88y41282/1/
+
 var vanilla = document.getElementById("vanilla");
 
 Animation( null, {duration: 1300})
